@@ -1,6 +1,6 @@
 {
   "name": "@angeldimitrov94/ticketing-common",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A library encapsulating various functions for a ticketing application used across the tech stack.",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
